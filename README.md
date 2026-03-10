@@ -1,13 +1,6 @@
 # Gridded-ion-thruster-0D-model
 0D global model of a Krypton gridded ion thruster developed for an IPSA Master's project. The model estimates ion beam velocity, thrust, and propulsion efficiencies using a simplified plasma approach implemented in Python.
 
-
-# 0D Grid Ion Thruster Model (GIT)
-
-This repository contains a **0-dimensional (global) model of a Gridded Ion Thruster (GIT)** developed as part of the **IPSA Master's Project (PMI)** for the **Aragosat-1 mission**.
-
-The objective of this project is to model the main physical processes governing ion beam generation and estimate the propulsion performance of the thruster.
-
 ## Author
 Gabriel Casarotto  
 IPSA – Institut Polytechnique des Sciences Avancées  
@@ -31,7 +24,9 @@ The propellant considered in the model is **Krypton**.
 
 ## Repository Structure
 ├── 0D_GIT.ipynb # Python notebook containing the global model implementation
+
 ├── equations.pdf # Summary of the physical equations used in the model
+
 └── README.md
 
 
