@@ -23,9 +23,9 @@ Key aspects modeled include:
 The propellant considered in the model is **Krypton**.
 
 ## Repository Structure
-├── 0D_GIT.ipynb # Python notebook containing the global model implementation \n
-├── equations.pdf # Summary of the physical equations used in the model
-└── README.md
+0D_GIT.ipynb # Python notebook containing the global model implementation
+equations.pdf # Summary of the physical equations used in the model
+README.md
 
 
 ## Model Characteristics
