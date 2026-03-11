@@ -58,3 +58,5 @@ The model is implemented in **Python** and relies on:
 This simplified model is intended for **educational and conceptual analysis purposes** and does not represent a full plasma simulation.
 
 It provides a first-order estimation of the performance of a **gridded ion propulsion system**.
+
+![alt image](https://upload.wikimedia.org/wikipedia/commons/f/f2/Electrostatic_ion_thruster-en.svg)
